@@ -1,2 +1,4 @@
 # Data-Science-and-Machine-Learning-Bootcamp
-Udemy Python for Data Science and Machine Learning Bootcamp course by Jose Portilla
+Udemy Course 
+Python for Data Science and Machine Learning Bootcamp 
+By: Jose Portilla
